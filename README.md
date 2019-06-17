@@ -1,2 +1,4 @@
-# python1
-python and git practice
+# Python: the basics
+This is a simple repository for playing with git and python.
+
+Learning new skills is always fun.
